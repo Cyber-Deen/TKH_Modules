@@ -1,3 +1,10 @@
 A.) What is Git and how is it different than GitHub.
+Git is an open-source version control system (VCS) that enables you to store code, track revision history, merge code changes, and revert to earlier code version when needed. Git tracks the changes you make to files, so you have a record of what has been done, and you can revert to specific versions should you ever need to, and GitHub,a public Git repository hosting service, that host Git Repos and comes with many of its own features. it provides a Web-based graphical interface through the url www.github.com that allows for a relatively easy managment of repos.
+
 B.) Why do we use the terminal ?
+Firstly having version control in the terminal very is convenient, puts you in full control of your computer and your workflow. Git CLI offers a greater amount of control with respect to branching and merging. Also with CLI the commands that you need to enter to get Git working is the same regardless of the OS.
+
 C.) Explain 3 benefits version control in your own words.
+  i.) With version control, you are able compare two versions, reverse changes is need, this can be very crucial when working in big teams or on a larg projects.
+  ii.) Since all versions stored on a central server (github), individual developers can checkout and upload changes back to this server.
+  iii.) Version control allows the user to accurately track the “versions” of a project, shows which/what/when changes were made to the project/code over time, and allows the user to backtrack if necessary and undo those changes.
